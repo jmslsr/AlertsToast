@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Alert Boxes and Toast Messages</string>
+    <string name="app_name">AlertToastText</string>
+    <string name="button1">Press the button!</string>
+
+</resources>
